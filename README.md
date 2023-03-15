@@ -3,7 +3,7 @@
 ### sub sub title
 
 # 나의 소개
-안녕하세요. 동미입니다.
+안녕하세요. 동미입니다.<br>
 <img src="1.jpg" width="300" height="300"/>
 
 # 나의 동아리
